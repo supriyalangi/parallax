@@ -16,7 +16,7 @@
     .box-1 {
         height: auto;
         max-width: 100%;
-        background-image: url("C:\\my program\\4th assignment\\parallax\\img\\paraa.jpg");
+        background-image: url("C:\\Repositories\\Parallax\\parallax\\img\\para.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -48,7 +48,7 @@
     .box-2 {
         height: 100%;
         width: 100%;
-        background-image: url("C:\\my program\\4th assignment\\parallax\\img\\para7.jpg");
+        background-image: url("C:\\Repositories\\Parallax\\parallax\\img\\para7.jpg");
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
@@ -65,7 +65,7 @@
     .box-3 {
         height: 100%;
         width: 100%;
-        background-image: url("C:\\my program\\4th assignment\\parallax\\img\\para6.jpg");
+        background-image: url("C:\\Repositories\\Parallax\\parallax\\img\\para6.jpg");
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
@@ -82,7 +82,7 @@
     .box-4 {
         height: 100%;
         width: 100%;
-        background-image: url("C:\\my program\\4th assignment\\parallax\\img\\para4.jpg");
+        background-image: url("C:\\Repositories\\Parallax\\parallax\\img\\para4.jpg");
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
@@ -101,7 +101,7 @@
     .box-5 {
         height: 100%;
         width: 100%;
-        background-image: url("C:\\my program\\4th assignment\\parallax\\img\\parab.jpg");
+        background-image: url("C:\\Repositories\\Parallax\\parallax\\img\\parab.jpg");
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
@@ -120,7 +120,7 @@
     .box-6 {
         height: 100%;
         width: 100%;
-        background-image: url("C:\\my program\\4th assignment\\parallax\\img\\parac.jpeg");
+        background-image: url("C:\\Repositories\\Parallax\\parallax\\img\\parac.jpeg");
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
